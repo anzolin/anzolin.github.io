@@ -1,6 +1,6 @@
-title: . # your name (or website title) here
-logo: . # your photo (or logo) here
+title: title # your name (or website title) here
+logo: "" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-.
+<p>description</p>
 theme: jekyll-theme-minimal
 google_analytics: UA-143621465-1 # your Google Analytics tracking ID here
